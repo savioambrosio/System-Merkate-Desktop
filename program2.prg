@@ -1,0 +1,4 @@
+SET TALK OFF
+CLEAR
+DO FORM form1
+READ events
